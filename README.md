@@ -2,7 +2,7 @@ Goal- With the help of machine learning techniques, we have developed a tool whi
 
 Language- Python3
 Programming tool- Pycharm
-Concepts used- Machine learning, Gensim library, Natural language processing, Text summerization, Text rank algorithm
+Concepts used- Machine learning, Gensim and NLTK library, Natural language processing, Text summerization, Text rank algorithm
 
 We have 2 python files- 
 Summerize.py = It extracts the important words from patient's diagnosis summary and summerizes it. After execution it creates 2 files (keywords.txt and summary.txt) in output folder. You have to create empty Output folder inside folder structure. 
